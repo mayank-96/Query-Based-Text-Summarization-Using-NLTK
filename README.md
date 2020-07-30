@@ -1,1 +1,0 @@
-# Query-based-Text-Summarization-
